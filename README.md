@@ -1,5 +1,5 @@
 
-### Updated R and Stata code and data from Armstrong et al, BMC Medical Research Methodology 2014
+### Updated R and Stata code and data from Armstrong BMCmrm 2014
 
 --------------------------------------------------------------------------------
 
