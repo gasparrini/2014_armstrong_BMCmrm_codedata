@@ -5,15 +5,12 @@
 #     case cross-over analysis"
 #   Ben Armstrong, Antonio Gasparrini, Aurelio Tobias
 #   BMC Medical Research Methodology - 2014
-#   http://www.ag-myresearch.com/bmcmrm2014b.html
+#   http://www.ag-myresearch.com/2014_armstrong_bmcmrm.html
 #
-# NB: the analysis is an exercise only. In particular, there is apoor control 
-#   for temperature
-#
-# Original code by Ben Armstrong
-# Corrections by Antonio Gasparrini
-# Updated: 24 November 2014 
-# For any problem with this code, please contact the authors
+# Update: 15 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2014_armstrong_BMCmrm_Codedata
 ###############################################################################
 
 library(foreign) # ENABLES READING THE DATA FILE, WHICH IS A STATA FORMAT

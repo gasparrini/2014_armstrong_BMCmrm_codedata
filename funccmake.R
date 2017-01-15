@@ -1,6 +1,6 @@
 ##############################################################################
 # USE OF DLNM IN CASE-CROSSOVER ANALYSIS
-# (c) Antonio Gasparrini 2011-2014
+# (c) Antonio Gasparrini 2011-2017
 ##############################################################################
 
 # CREATE A FUNCTION FUNCCMAKE TO CREATE THE DATASET FROM THE ORIGINAL SERIES
