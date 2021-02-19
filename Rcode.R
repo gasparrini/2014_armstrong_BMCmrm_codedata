@@ -47,7 +47,7 @@ summary(modelcpr2)
 library(tsModel)   # FACILITATES GETTING LAGGED VALUES'
 reslag1 <- Lag(residuals(modelcpr1,type="deviance"),1)
 modelcpr3 <- gnm(numdeaths ~ ozone10 +  temperature + reslag1, data=data,
-  family=quasipoisson, eliminate=factor(stratum))
+  family=poisson, eliminate=factor(stratum))
 summary(modelcpr3)
 
 # ALLOW FOR AUTOCORRELATION AND OVERDISPERSION
